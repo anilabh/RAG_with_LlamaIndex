@@ -14,7 +14,7 @@ filepath = "D:\\ML\\code\\"
 2. Set the path to the folder contaning the PDF insurance policy files. 
 input_dir =  "D:\\ML\\data\\policy\\"
 
-### Business Obejective
+### Business Objective
 The goal of the project will be to build a robust generative search system capable of effectively and accurately answering questions from various policy documents. 
 
 ### Dataset
